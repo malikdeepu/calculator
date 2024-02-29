@@ -1,0 +1,32 @@
+.container{
+    height: 100%;
+    background-color: aquamarine;
+    width: 30%;
+    border-radius: 20px;
+    box-shadow:5px 10px 10px ;
+}
+button{
+    font-size: 50px;
+    width: 60px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px;
+    
+}
+input{
+    
+    height: 60px;
+    width: 275px;
+    color: black;
+    font-size: 50px;
+    box-shadow: 2px 2px 5px;
+}
+input.hover{
+    color: rgb(128, 128, 128);
+}
+.result{
+    width: 280px;
+}
+.but2{
+    width: 85px;
+}
